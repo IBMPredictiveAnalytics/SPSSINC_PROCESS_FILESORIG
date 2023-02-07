@@ -1,0 +1,19 @@
+Name: SPSSINC PROCESS FILESORIG
+Display-Name: Process Data Files (for v28 and below)
+Dialog-Specs: SPSSINC_PROCESS_FILESORIG.cfe
+Command-Specs: SPSSINC_PROCESS_FILESORIG.xml
+Code-Files: SPSSINC_PROCESS_FILESORIG.py
+Misc-Files: extsyntax.css,IBMdialogicon.png,markdown.html
+Summary: Apply a file of syntax to a set of data files
+Description: This procedure applies a file of syntax to each of a grou
+ p of selected files. It defines file handles and macros for use in th
+ e syntax file, and provides various options for handling Viewer and d
+ ata output.
+Author: JKP, IBM SPSS
+Version: 2.0.0
+Product-Version: 24
+Date: 1/2/2014
+Product-Version-Maximum: 99
+Plugins: Python
+Python-Version: 3
+Translation-Catalogues: lang
